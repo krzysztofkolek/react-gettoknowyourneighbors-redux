@@ -1,0 +1,16 @@
+html {
+     
+    background-color: rgb(48, 48, 48);
+}
+
+#map {
+  position: absolute;
+  overflow: visible;
+      height: 500px;
+    width: 500px;
+}
+
+span {
+  /*background-color: rgb(48, 48, 48) !important;*/
+}
+ 

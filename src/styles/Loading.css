@@ -1,0 +1,11 @@
+.loading-component {
+  border: 1px solid #f00;
+    margin-left: 50%; 
+    margin-top: 25%;
+    position: absolute;
+    z-index: 1000;
+}
+
+.display-none {
+  display: none
+}
